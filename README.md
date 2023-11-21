@@ -30,3 +30,8 @@
 <p>❸ О нас, контакты&zwnj;</p>
 <p>С 2005 года мы оказываем брокерские услуги по покупке автомобилей на торговых площадках Интернета в Европе. Купить авто в Германии на mobile.de или аукционе, &mdash; с нами это легко, выгодно и надежно. &zwnj;&zwnj;</p>
 <p>&zwnj;О том как это работало в 90-х и начале 2000-х архив (2006&minus;2015 годы) нашего сайта ivanpro.org, &mdash; захватывающие истории от перегонщиков, статьи и обзоры авторынка в Европе (<a href="http://web.archive.org/web/20120326140401/http:/www.ivanpro.org/">ссылка</a>). </p>
+<p>@AutoBroker.by,&nbsp; Ивашкевич А.Е., УНП AA7387266</p>
+<p>Тел: +375 29 6543262&nbsp;WhatsApp, Telegram, Viber</p>
+<p>&nbsp;E-mail: <a href="mailto:6543262@gmail.com">6543262@gmail.com</a></p>
+<p><a href="https://www.instagram.com/autobroker.by/">https://www.instagram.com/autobroker.by/</a> &nbsp;</p>
+<p>&nbsp;</p>
