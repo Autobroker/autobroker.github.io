@@ -1,6 +1,6 @@
 <h3 id="доставка-автомобилей-из-германии" dir="auto" tabindex="-1">Доставка автомобилей из Германии</h3>
-<p><strong>❶&nbsp; </strong><strong><em>Авто идет на РБ </em></strong>&ndash; схема работы, цены, договор</p>
-<p><strong>❷&nbsp; <em>Авто идет на РФ</em></strong>&nbsp;&ndash; схема работы, цены, договор</p>
+<p><strong>❶&nbsp;&nbsp;</strong><strong><em>Авто идет на РБ</em></strong></p>
+<p><strong>❷&nbsp;&nbsp;<em>Авто идет на РФ</em></strong>&nbsp;</p>
 <p><strong>❸&nbsp; Контакты</strong></p>
 <p>_____________________________________________</p>
 <p><strong>❶&zwnj; </strong><strong><em>Авто идет на РБ</em></strong></p>
