@@ -1,4 +1,4 @@
-<h3 dir="auto" tabindex="-1">Доставка автомобилей из Германии</h3>
+<h3 id="доставка-автомобилей-из-германии" dir="auto" style="padding-left: 150px;" tabindex="-1">Доставка автомобилей из Германии</h3>
 <p><strong>❶&nbsp; </strong><strong><em>Авто идет на РБ </em></strong>&ndash; схема работы, цены, договор</p>
 <p><strong>❷&nbsp; <em>Авто идет на РФ</em></strong>&nbsp;&ndash; схема работы, цены, договор</p>
 <p><strong>❸&nbsp; Контакты</strong></p>
